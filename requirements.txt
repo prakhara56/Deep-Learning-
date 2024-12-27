@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlxtend
+ipympl
+tensorflow
+tensorflow-metal
